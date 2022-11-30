@@ -9,6 +9,7 @@
 ## Table of Contents
 * [Business Goal](#business-goal)
 * [Technologies Used](#technologies-used)
+* [Code](#code)
 * [Conclusions](#conclusions)
 * [Contact](#contact)
 
@@ -24,6 +25,9 @@ You are required to model the price of houses with the available independent var
 - Numpy
 - Seaborn
 - Pandas
+
+## Code
+* You can access my code [here](/HousePricePrediction).
 
 ## Conclusions
 * The optimal lambda value in case of Ridge and Lasso is as below:
